@@ -1,0 +1,11 @@
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\bin\Release\net8.0\EgSol.deps.json
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\bin\Release\net8.0\EgSol.dll
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\bin\Release\net8.0\EgSol.pdb
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.AssemblyInfoInputs.cache
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.AssemblyInfo.cs
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.csproj.CoreCompileInputs.cache
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.dll
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\refint\EgSol.dll
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\EgSol.pdb
+C:\Users\YashPatel\OneDrive - 1Rivet US, Inc\Desktop\ExampleSol\EgSol\obj\Release\net8.0\ref\EgSol.dll
