@@ -8,6 +8,7 @@
     <Version>1.0.0</Version>
     <Author>Yash</Author>
     <Product>AppLogger</Product>
+    <RepositoryUrl>https://github.com/Yashp1215/ExampleSol</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
